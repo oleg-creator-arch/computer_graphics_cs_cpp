@@ -1,0 +1,10 @@
+A:\учеба\KG\OlegxasanovKG1\bin\Debug\OlegxasanovKG1.exe.config
+A:\учеба\KG\OlegxasanovKG1\bin\Debug\OlegxasanovKG1.exe
+A:\учеба\KG\OlegxasanovKG1\bin\Debug\OlegxasanovKG1.pdb
+A:\учеба\KG\OlegxasanovKG1\obj\Debug\OlegxasanovKG1.csprojAssemblyReference.cache
+A:\учеба\KG\OlegxasanovKG1\obj\Debug\OlegxasanovKG1.Form1.resources
+A:\учеба\KG\OlegxasanovKG1\obj\Debug\OlegxasanovKG1.Properties.Resources.resources
+A:\учеба\KG\OlegxasanovKG1\obj\Debug\OlegxasanovKG1.csproj.GenerateResource.cache
+A:\учеба\KG\OlegxasanovKG1\obj\Debug\OlegxasanovKG1.csproj.CoreCompileInputs.cache
+A:\учеба\KG\OlegxasanovKG1\obj\Debug\OlegxasanovKG1.exe
+A:\учеба\KG\OlegxasanovKG1\obj\Debug\OlegxasanovKG1.pdb
