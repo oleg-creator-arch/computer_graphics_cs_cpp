@@ -1,0 +1,20 @@
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\obj\Debug\laba3.Form1.resources
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\obj\Debug\laba3.Properties.Resources.resources
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\obj\Debug\laba3.csproj.GenerateResource.cache
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\bin\Debug\laba3.exe.config
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\bin\Debug\laba3.exe
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\bin\Debug\laba3.pdb
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\obj\Debug\laba3.exe
+D:\Documents\_ИКТИБ\Компьютерная графика\Лабораторная 3\laba3\laba3\obj\Debug\laba3.pdb
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\bin\Debug\laba3.exe.config
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\bin\Debug\laba3.exe
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\bin\Debug\laba3.pdb
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\obj\Debug\laba3.Form1.resources
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\obj\Debug\laba3.Properties.Resources.resources
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\obj\Debug\laba3.csproj.GenerateResource.cache
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\obj\Debug\laba3.exe
+C:\Users\Oleg\Desktop\Лабораторная 3\laba3\laba3\obj\Debug\laba3.pdb
